@@ -20,3 +20,4 @@ E - uses heal if available
 Pressing 1,2,3,4 in front of the corresponding NPC will provide new skills and change between said skills in the same skillslot
 (At the moment there are 2 different skills for every slot so pressing each number twice near the skill seller npc will exhaust
 all possibilities and you can change between them with the other npc)
+
